@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flicker Client</string>
+    <string name="login_title">Login</string>
+    <string name="teacher_label">Teacher</string>
+    <string name="student_label">Student</string>
+    <string name="login_button">Log In</string>
+    <string name="error_invalid_credentials">Invalid credentials, please try again.</string>
+    <string name="welcome_message">Welcome to Flicker!</string>
+</resources>
